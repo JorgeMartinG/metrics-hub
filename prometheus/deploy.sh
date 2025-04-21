@@ -1,0 +1,1 @@
+ --docker run --name "promehteus" --restart "unless-stopped"
